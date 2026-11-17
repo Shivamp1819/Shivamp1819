@@ -85,36 +85,18 @@ I’m continuously learning and experimenting with technologies across AI engine
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Contribution Activity
 
 <div align="center">
 
-<!-- GitHub account overview -->
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=shivamp1819&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&cache_seconds=1800"
-  alt="Shivam's GitHub statistics"
-/>
-
-<!-- Most-used language breakdown -->
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamp1819&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&card_width=440&cache_seconds=1800"
-  alt="Most used programming languages"
-/>
-
-<br />
-
-<!-- Contribution streak -->
 <img
   width="70%"
-  src="https://streak-stats.demolab.com?user=shivamp1819&theme=tokyonight&hide_border=true&cache=1800"
+  src="https://streak-stats.demolab.com?user=shivamp1819&theme=tokyonight&hide_border=true"
   alt="GitHub contribution streak"
 />
 
 <br />
 
-<!-- Contribution activity graph -->
 <img
   width="100%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=shivamp1819&theme=tokyo-night&hide_border=true&area=true"
@@ -123,7 +105,6 @@ I’m continuously learning and experimenting with technologies across AI engine
 
 <br />
 
-<!-- Profile contribution summary -->
 <img
   width="100%"
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamp1819&theme=tokyonight"
