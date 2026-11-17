@@ -32,7 +32,6 @@ I build AI-powered applications, intelligent workflows, and scalable software so
 - 💻 Background in full-stack and backend development using JavaScript, Python, React, Node.js, and databases.
 - ☁️ Familiar with Docker, AWS, CI/CD pipelines, and software deployment workflows.
 - 🧩 Interested in building reliable, maintainable software through structured engineering practices.
-- 📫 Contact: **[splkobnrs@gmail.com](mailto:splkobnrs@gmail.com)**
 
 ---
 
