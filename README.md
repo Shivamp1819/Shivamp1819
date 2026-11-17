@@ -1,28 +1,150 @@
-<h1 align="center">Hi 👋, I'm Shivam Patel</h1>
-<h3 align="center">AI Engineer & Software Developer | Building Intelligent AI Agents, LLM-Powered Applications & Scalable Full-Stack Solutions | GenAI • RAG • MCP • Python • JavaScript • React • Node.js</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamp1819&label=Profile%20views&color=0e75b6&style=flat" alt="shivamp1819" /> </p>
+<div align="center">
 
-- 🔭 I’m currently working on [SI - Super Intelligence Chatbot](https://github.com/Shivamp1819/SI-Super-Intelligence-Chatbot)
+# Hey, I'm Shivam Patel 👋
 
-- 🌱 I’m currently learning **🤖 Agentic AI & Multi-Agent Systems | LangChain | LangGraph | CrewAI | AutoGen 🧠 AI/ML & Deep Learning | PyTorch | TensorFlow | Scikit-learn | Hugging Face ⚡ LLM Engineering & RAG | LlamaIndex | Vector Databases | ChromaDB | FAISS 🔌 MCP Server Development | Model Context Protocol | FastMCP | MCP Python & TypeScript SDKs 🚀 Generative AI | Prompt Engineering | AI Workflows | Tool Calling | AI Automation**
+### AI Engineer · Software Engineer · Full-Stack Developer
 
-- 💬 Ask me about **🤖 Agentic AI & AI Agents | LLM Engineering & Generative AI | RAG Pipelines & MCP Servers | AI/ML Model Development | Full-Stack Development (React, Node.js, Python) | REST APIs & Backend Engineering | Docker, AWS & CI/CD**
+Building AI-powered applications, intelligent agents, and scalable software.
 
-- 📫 How to reach me **splkobnrs@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shivamp1819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamp1819" height="30" width="40" /></a>
-<a href="https://instagram.com/spsidhauli73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spsidhauli73" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shivamp1819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamp1819" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/Shivamp1819">
+    <img src="https://img.shields.io/badge/GitHub-Shivamp1819-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/shivamp1819">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:splkobnrs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=shivamp1819&label=Profile%20views&color=2563eb&style=flat" alt="Profile views" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamp1819&show_icons=true&locale=en&layout=compact" alt="shivamp1819" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamp1819&show_icons=true&locale=en" alt="shivamp1819" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamp1819&" alt="shivamp1819" /></p>
+## 👨‍💻 About Me
+
+- 💼 Junior AI Engineer at **VVnT Sequor**.
+- 🧠 Building AI agents, LLM-powered applications, and API-driven solutions.
+- 🛠️ Experienced with full-stack development, backend engineering, databases, and deployment workflows.
+- ☁️ Working with Docker, AWS, and CI/CD pipelines.
+- 🌱 Exploring Agentic AI, Multi-Agent Systems, RAG architectures, and MCP server development.
+- 💬 Ask me about **AI Agents, GenAI, LLM Applications, RAG, MCP, REST APIs, React, Node.js, and Python**.
+- 📫 Reach me at **[splkobnrs@gmail.com](mailto:splkobnrs@gmail.com)**.
+
+## 🚀 What I'm Working On
+
+### [SI – Super Intelligence Chatbot](https://github.com/Shivamp1819/SI-Super-Intelligence-Chatbot)
+
+Exploring intelligent conversational experiences with modern AI and full-stack technologies.
+
+---
+
+## 🧰 Tech Stack
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="Python, PyTorch, TensorFlow" />
+</p>
+
+**AI Areas:** Generative AI · LLMs · AI Agents · RAG · NLP · Prompt Engineering · Model Training · MCP
+
+### ⚙️ Backend, APIs & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres" alt="Backend technologies" />
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,bootstrap" alt="Frontend technologies" />
+</p>
+
+### ☁️ Cloud, DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,postman,vscode" alt="Cloud and DevOps technologies" />
+</p>
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,php" alt="Programming languages" />
+</p>
+
+---
+
+## 📚 Currently Exploring
+
+<p>
+  <img src="https://img.shields.io/badge/Agentic%20AI-LangGraph%20%7C%20CrewAI%20%7C%20AutoGen-6D5AE6?style=flat-square" alt="Agentic AI frameworks" />
+  <img src="https://img.shields.io/badge/LLM%20Apps-LangChain%20%7C%20LlamaIndex-2563EB?style=flat-square" alt="LLM frameworks" />
+  <img src="https://img.shields.io/badge/MCP-FastMCP%20%7C%20MCP%20SDK-0F766E?style=flat-square" alt="MCP development" />
+  <img src="https://img.shields.io/badge/RAG-ChromaDB%20%7C%20FAISS-0891B2?style=flat-square" alt="RAG tools" />
+  <img src="https://img.shields.io/badge/ML-Scikit--learn%20%7C%20Hugging%20Face-F59E0B?style=flat-square" alt="Machine learning tools" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shivamp1819&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamp1819&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=shivamp1819&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamp1819&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamp1819&theme=tokyonight" alt="GitHub contribution summary" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shivamp1819&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/shivamp1819">
+  <img src="https://img.shields.io/badge/LinkedIn-Shivam%20Patel-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+
+<a href="mailto:splkobnrs@gmail.com">
+  <img src="https://img.shields.io/badge/Email-splkobnrs%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://leetcode.com/u/shivamp1819/">
+  <img src="https://img.shields.io/badge/LeetCode-shivamp1819-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+
+</p>
+
+<div align="center">
+
+### 💡 Building intelligent systems, one commit at a time. 🚀
+
+</div>
